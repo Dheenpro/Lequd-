@@ -1,0 +1,6 @@
+{
+  "name": "Aurora Music",
+  "description": "Modern music player with liquid glass design, Spotify, YouTube and local media integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
